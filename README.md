@@ -1,10 +1,8 @@
-#Demo Project 
+Demo Project README
 
-This is a file.
+This is a simple readme file.
 
+HEADING 2
 
-THis is bound to cause truble.
-I hope this isnt much a problrm.
-
-cvxcvxcvcxvcxvcxvcxvcxv
+Just something going on.
 
